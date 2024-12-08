@@ -1,1 +1,2 @@
-# pg1
+# PG1
+## By: Juan Diego Bohorquez
